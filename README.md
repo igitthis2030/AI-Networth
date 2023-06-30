@@ -1,4 +1,2 @@
-# Geo Location Data Researcher (geolocres)
-I am a qualifiec Geo Location Data Researcher since 2018 through Phunware
-And my current competencies entail:
-Location Data Analytics, API Call Security, and Federated Identity
+Music sales onilne
+
